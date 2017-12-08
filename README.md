@@ -1,4 +1,4 @@
-# Pixel Perfect Mockups
+# Pixel Perfect Mockups - React
 
 Development teams work best when there's clear communication between all roles. This afternoon we'll practice team mechanics by building a simple web page. In groups of three, you'll use a landing page of a site of your choosing and re-create it visually as pixel perfect as you can. 
 
