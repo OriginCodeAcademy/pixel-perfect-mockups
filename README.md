@@ -5,7 +5,7 @@ Development teams work best when there's clear communication between all roles. 
 Some resources:
  - [Land Book](https://land-book.com)
  - [Landing Folio](http://www.landingfolio.com/)
- - [Dribble](https://dribbble.com/search?q=landing+page)
+ - [Dribble](https://dribbble.com/search?q=landing+page&s=latest)
 
 ## Rules
 Once you've chosen a template/mockup, the teams will break into three positions:
